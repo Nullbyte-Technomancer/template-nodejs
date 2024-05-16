@@ -5,7 +5,7 @@
   "scripts": {
     "test": "jest",
     "test-w": "jest --watch",
-    "start": "node app.js"
+    "start": "nodemon app.js"
   },
   "author": "Nullbyte Technomancer",
   "license": "ISC",
